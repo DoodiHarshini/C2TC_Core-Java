@@ -1,0 +1,13 @@
+
+public class Example3 {
+
+	public static void main(String[] args) {
+		int x=10;
+		int y=20;
+		System.out.println("Welcome Harsha");
+		int z=x1/y;
+		System.out.println(z);
+
+	}
+
+}

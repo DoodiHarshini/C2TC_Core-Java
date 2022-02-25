@@ -1,8 +1,9 @@
 
-public class Bike {
-	public void petrol() {}
-}
-public  class Test{
+ public class Bike{
+	public void petrol (){}
+ }
+  class Test
+{
 	public static void main(String[] args) {
 	Bike ha= null;
 	try {
@@ -17,7 +18,8 @@ public  class Test{
 		
 	}
 	System.out.println("Everything went fine");
-
 	}
-
 }
+	
+
+
